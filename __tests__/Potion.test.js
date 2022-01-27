@@ -1,4 +1,5 @@
 const Potion = require('../lib/Potion.js');
+const Character = require('../lib/Character');
 
 test('creates a health potion object', () => {
   const potion = new Potion('health');
