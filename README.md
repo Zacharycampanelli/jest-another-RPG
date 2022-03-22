@@ -19,7 +19,7 @@ Clone this repo to your local computer
 
 ## Usage
 
-Open a command-line at the root folder of this project, then run `node index.js`
+Open a command-line at the root folder of this project, then run `node app.js`
 
 ![screenshot](assets/images/Screenshot_1.png)
 
